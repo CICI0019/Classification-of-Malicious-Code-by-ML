@@ -36,6 +36,7 @@ from sklearn.model_selection import cross_val_predict
 ## Usage
 ```````python
 python scan_file <insert exe file>
+Read <Input>.csv Manually input the csv file from the scanFile
 ```````````````````````````````````
 ## What to expect?
 
