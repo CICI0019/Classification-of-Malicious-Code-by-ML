@@ -11,7 +11,9 @@
 
 
 ## Install
-
+````python
+pip install pefile
+```````````````````````
 
 ## Usage
 
