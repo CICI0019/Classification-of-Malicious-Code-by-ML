@@ -3,6 +3,10 @@
 
 ## Example
 
+- Gaussian Naive Bayes model accuracy(in %): 32.24573030843742
+- Random Forest model accuracy(in %): 98.44506755034412
+- Decision Tree Classifier Accuracy: 71.32296711700229
+- Linear SVC Classifier accuracy(in %): 96.06853296619245
 
 ## Intro
 
