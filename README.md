@@ -34,8 +34,9 @@ from sklearn.model_selection import cross_val_predict
 `````````````````````````````````````````````````````````
 
 ## Usage
-
-
+```````python
+python scan_file <insert exe file>
+```````````````````````````````````
 ## What to expect?
 
 
