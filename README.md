@@ -4,7 +4,11 @@
 
 
 ## About PEFILE
+Refers to a file in a certain format, executable files exe dynamic link library (dll) driver files (sys) are all PE file formats。
 
+-The structure of a PE file when it is stored on disk is different from the structure after it is loaded into memory.
+-When the PE file is loaded into the memory through the Windows loader, the version in the memory is called a module (Module).
+-The starting address of the mapping file is called the module handle (hModule), also known as the base address (ImageBase).
 
 ## Install
 ````python
