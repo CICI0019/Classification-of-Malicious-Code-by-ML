@@ -52,3 +52,10 @@ Read <Input>.csv Manually input the csv file from the scanFile
 
 
 ## Credit To
+GitHub - pratikpv/malware_detect2: Malware Classification using Machine learning
+
+GitHub - aayuv17/Malware-Analysis: Malware Analysis using Machine Learning
+
+GitHub - bindog/ToyMalwareClassification: Kaggle微软恶意代码分类
+
+erocarrera/pefile: pefile is a Python module to read and work with PE (Portable Executable) files (github.com)
