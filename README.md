@@ -43,13 +43,16 @@ python scan_file <insert exe file>
 Read <Input>.csv Manually input the csv file from the scanFile
 ```````````````````````````````````
 ## What to expect?
+The scanner should take the output dataset csv from the exe file. By using the output csv we should be able to run ml for analysis. Use the following algorithm.
+
+The following results are from the internet example dataset:
 - Gaussian Naive Bayes model accuracy(in %): 32.24573030843742
 - Random Forest model accuracy(in %): 98.44506755034412
 - Decision Tree Classifier Accuracy: 71.32296711700229
 - Linear SVC Classifier accuracy(in %): 96.06853296619245
 
 ## The next step:
-
+Continue to study the PEFILE scanner. Make the dataset output complete and be able to identify and remove malicious files from exe programs.
 
 ## Credit To
 GitHub - pratikpv/malware_detect2: Malware Classification using Machine learning
