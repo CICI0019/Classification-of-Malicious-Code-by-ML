@@ -59,3 +59,5 @@ GitHub - aayuv17/Malware-Analysis: Malware Analysis using Machine Learning
 GitHub - bindog/ToyMalwareClassification: Kaggle微软恶意代码分类
 
 erocarrera/pefile: pefile is a Python module to read and work with PE (Portable Executable) files (github.com)
+
+Machine learning for encrypted malicious traffic detection: Approaches, datasets and comparative study - ScienceDirect
