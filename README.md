@@ -16,6 +16,10 @@ pip install pefile
 ```````````````````````
 ## Import
 ````python
+import pefile
+import os, string, shutil, re
+import sys
+import csv
 import numpy as np
 import pandas as pd
 import seaborn as sns
