@@ -56,12 +56,16 @@ Continue to study the PEFILE scanner. Make the dataset output complete and be ab
 
 ## Credit To
 GitHub - pratikpv/malware_detect2: Malware Classification using Machine learning
+https://github.com/pratikpv/malware_detect2
 
 GitHub - aayuv17/Malware-Analysis: Malware Analysis using Machine Learning
+https://github.com/aayuv17/Malware-Analysis
 
 GitHub - bindog/ToyMalwareClassification: Kaggle微软恶意代码分类
+https://github.com/bindog/ToyMalwareClassification
 
 erocarrera/pefile: pefile is a Python module to read and work with PE (Portable Executable) files (github.com)
+https://github.com/erocarrera/pefile
 
 https://github.com/Vxer-Lee/MalwareAnalysis/tree/master/3.%20%E5%8A%A8%E6%80%81%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%E6%8A%80%E6%9C%AF
 
