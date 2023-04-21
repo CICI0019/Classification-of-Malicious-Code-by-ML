@@ -4,7 +4,7 @@
 The goal of this project is to perform malware analysis on a given dataset from python scanned files to implement basic machine learning algorithms: Gaussian Naive Bayes, Random Forest Classifier, Decision Tree Classifier, and Linear SVC. We use two data sets, one is generated from exe/dll scanning files, and the other is a sample obtained from the Internet.
 
 ## About PEFILE
-Refers to a file in a certain format, executable files exe dynamic link library (dll) driver files (sys) are all PE file formats。
+Refers to a file in a certain format, executable files exe dynamic link library (dll) driver files (sys) are all PE file formats.
 Pefile can parse, read or modify PE files.
 - The structure of a PE file when it is stored on disk is different from the structure after it is loaded into memory.
 - When the PE file is loaded into the memory through the Windows loader, the version in the memory is called a module (Module).
