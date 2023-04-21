@@ -63,6 +63,8 @@ GitHub - bindog/ToyMalwareClassification: Kaggle微软恶意代码分类
 
 erocarrera/pefile: pefile is a Python module to read and work with PE (Portable Executable) files (github.com)
 
+https://github.com/Vxer-Lee/MalwareAnalysis/tree/master/3.%20%E5%8A%A8%E6%80%81%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%E6%8A%80%E6%9C%AF
+
 Machine learning for encrypted malicious traffic detection: Approaches, datasets and comparative study - ScienceDirect
 
 ## In the future (something to investigate)
